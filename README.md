@@ -1,4 +1,3 @@
-````markdown name=README.md
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0f0f0f" />
 
 <div align="center">

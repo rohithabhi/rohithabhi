@@ -21,7 +21,7 @@
   - Rust
 
 <p align="center">
-  <a href="https://github.com/rohithahan">
+  <a href="https://github.com/rohithabhi">
     <img alt="Panda's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rohithahan?cardType=github&theme=github-dark&preferLogin=true" />
   </a>
 </p>

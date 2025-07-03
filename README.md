@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/rohithahan">
+  <a href="https://github.com/rohithabhi">
     <img src="https://readme-typing-svg.demolab.com?lines=Hobby+Developer!;Self-Taught+Learner;&font=Time+New+Roman&color=90EE90&size=25&center=true&vCenter=true&width=600&height=100">
   </a>
 </p>
@@ -12,8 +12,8 @@
   <img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="35">
 </h1>
 
-- 🧑‍🏫 I’m a passionate Self-Taught **Junior Developer**
-- 🤝 I’m looking to collaborate with other **Developers**
+- 🧑‍🏫 I’m a passionate self-taught **Junior Developer**
+- 🤝 I’m looking to collaborate with fellow **developers**
 - 📖 I’m currently learning:
   - C++
   - Haskell
@@ -22,12 +22,12 @@
 
 <p align="center">
   <a href="https://github.com/rohithabhi">
-    <img alt="Panda's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rohithahan?cardType=github&theme=github-dark&preferLogin=true" />
+    <img alt="Panda's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rohithabhi?cardType=github&theme=github-dark&preferLogin=true" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohithahan&label=Profile%20Views&color=ffa500&style=flat" alt="Panda" />
+  <img src="https://komarev.com/ghpvc/?username=rohithabhi&label=Profile%20Views&color=ffa500&style=flat" alt="Panda" />
 </p>
 
 <h1 align="center">

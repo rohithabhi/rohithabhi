@@ -55,7 +55,7 @@
   <a href="https://www.instagram.com/rohith_abhi">
     <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://wa.me/919946605328">
+  <a href="https://wa.me/919946605328?text=Hey%20%F0%9F%91%8B%F0%9F%8F%BB">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>

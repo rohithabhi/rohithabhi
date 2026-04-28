@@ -52,7 +52,7 @@
   <a href="mailto:ahanrohith123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/rohith_abhi">
+  <a href="https://www.instagram.com/rohith__abhi">
     <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://wa.me/919946605328?text=Hey%20%F0%9F%91%8B%F0%9F%8F%BB">

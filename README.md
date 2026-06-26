@@ -12,7 +12,7 @@
   <img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="35">
 </h1>
 
-- 🧑‍🏫 I’m a passionate self-taught **Junior Developer**
+- 🧑‍🏫 I’m a passionate self-taught **Ethical Hacker & Web Developer**
 - 🤝 I’m looking to collaborate with fellow **developers**
 - 📖 I’m currently learning:
   - C++
